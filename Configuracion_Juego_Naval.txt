@@ -1,0 +1,43 @@
+Configuracion del Juego Naval
+*************Niveles*************
+Nivel 0
+TamanoX: 5
+TamanoY: 5
+Numero_Naves: 3
+Numero_Tiradas: 25
+Numero_Naves_Tipo: 1:0 2:1 3:1 4:1 5:0
+
+Nivel 1
+TamanoX: 6
+TamanoY: 6
+Numero_Naves: 5
+Numero_Tiradas: 25
+Numero_Naves_Tipo: 1:0 2:3 3:1 4:1 5:0
+
+Nivel 2
+TamanoX: 8
+TamanoY: 8
+Numero_Naves: 5
+Numero_Tiradas: 30
+Numero_Naves_Tipo: 1:1 2:2 3:2 4:0 5:0
+
+Nivel 3
+TamanoX: 8
+TamanoY: 8
+Numero_Naves: 6
+Numero_Tiradas: 30
+Numero_Naves_Tipo: 1:2 2:2 3:1 4:1 5:0
+
+Nivel 4
+TamanoX: 10
+TamanoY: 10
+Numero_Naves: 7
+Numero_Tiradas: 40 
+Numero_Naves_Tipo: 1:1 2:2 3:2 4:1 5:1
+
+Nivel 5
+TamanoX: 15
+TamanoY: 15
+Numero_Naves: 8
+Numero_Tiradas: 65
+Numero_Naves_Tipo: 1:1 2:2 3:2 4:1 5:2
